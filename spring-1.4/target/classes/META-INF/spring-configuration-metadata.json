@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "ua.khai.shelemonchak.application.dao.settings.QuestionsDaoSetting",
+      "sourceType": "ua.khai.shelemonchak.application.dao.settings.QuestionsDaoSetting"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.cvs-file-name",
+      "type": "java.lang.String",
+      "description": "Description for application.cvs-file-name.",
+      "sourceType": "ua.khai.shelemonchak.application.dao.settings.QuestionsDaoSetting"
+    },
+    {
+      "name": "cvs-file-name",
+      "type": "java.lang.String",
+      "description": "Description for cvs-file-name."
+    }
+  ],
+  "hints": []
+}
