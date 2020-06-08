@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "application.cvs-file-name",
+      "type": "java.lang.String",
+      "description": "Description for application.cvs-file-name."
+    },
+    {
+      "name": "cvs-file-name",
+      "type": "java.lang.String",
+      "description": "Description for cvs-file-name."
+    }
+  ] }
